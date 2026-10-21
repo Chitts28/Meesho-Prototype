@@ -1,6 +1,6 @@
 # Valmo RTO · Working Prototype · Team Shooters, IIT Kanpur
 
-**Live:** https://chitts28.github.io/Meesho-DICE-Challenge-3.0/
+**Live:** https://meesho-tawny-tau.vercel.app/
 
 Meesho DICE Challenge 3.0, Business Track, Valmo RTO. Our two solutions, Commit-to-COD and Sure-Meet, built into the Meesho app and the Valmo partner apps.
 
