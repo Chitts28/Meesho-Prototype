@@ -1,6 +1,6 @@
 # Valmo RTO · Working Prototype · Team Shooters, IIT Kanpur
 
-**Live:** https://chitts28.github.io/Meesho-DICE-Challenge-3.0/
+**Live:** https://meesho-tawny-tau.vercel.app/
 
 > **If the live link does not open,** download `index.html` from this repo and open it on your computer:
 > 1. Click `index.html` in the file list above.
