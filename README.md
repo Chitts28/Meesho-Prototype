@@ -2,6 +2,11 @@
 
 **Live:** https://chitts28.github.io/Meesho-DICE-Challenge-3.0/
 
+> **If the live link does not open,** download `index.html` from this repo and open it on your computer:
+> 1. Click `index.html` in the file list above.
+> 2. Click the **Download raw file** button (the down arrow, top right of the file).
+> 3. Double-click the downloaded file. It opens in your browser and works fully offline, with nothing to install. Chrome or Edge on a laptop is best.
+
 Meesho DICE Challenge 3.0, Business Track, Valmo RTO. Our two solutions, Commit-to-COD and Sure-Meet, built into the Meesho app and the Valmo partner apps.
 
 ## What you can do
@@ -31,5 +36,5 @@ Demo codes: backup receiver **7316**, Valmo Point **4821**.
 ## Tech
 One self-contained `index.html`, HTML, CSS and JavaScript with images embedded. No backend, no tracking. Concept prototype with sample data only; no real payments, messages or calls. Not a Meesho product.
 
-## Rights
-© 2026 Team Shooters: Chitransh Gangwar, Atharva Katiyar and Abhay Kumar, IIT Kanpur. Built for Meesho DICE Challenge 3.0. All rights reserved. The code, design, flows and numbers may not be copied, reused or redistributed without written permission.
+## Team
+Built by Team Shooters: Chitransh Gangwar, Atharva Katiyar and Abhay Kumar, IIT Kanpur, for Meesho DICE Challenge 3.0.
