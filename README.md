@@ -1,6 +1,6 @@
 # Valmo RTO · Working Prototype · Team Shooters, IIT Kanpur
 
-**Live:** https://meesho-tawny-tau.vercel.app/
+**Live:** https://chitts28.github.io/Meesho-DICE-Challenge-3.0/
 
 Meesho DICE Challenge 3.0, Business Track, Valmo RTO. Our two solutions, Commit-to-COD and Sure-Meet, built into the Meesho app and the Valmo partner apps.
 
@@ -9,7 +9,7 @@ Meesho DICE Challenge 3.0, Business Track, Valmo RTO. Our two solutions, Commit-
 - **Free play:** the fifth button next to the four stories, also on the Overview. No script and no hints. Pick a normal buyer or a repeat refuser, with or without a saved backup receiver, then drive both phones yourself: shop any product, choose COD, Pay Online or a Valmo Point, answer the 8 am WhatsApp, and decide at the door on the rider phone. The order follows whatever you tap.
 - **All scenarios:** a colour-coded map of every path for both solutions. Click any ending to jump straight into it on the phones.
 - **Impact model:** six assumption sliders, each with a tick at our deck's base case, Cautious, Base and Strong presets, where Cautious and Strong move the two biggest levers 10 points down or up from the deck, a waterfall from gross saving to net value, a stress test table, and live net value, RTO rate, cost per delivered order, break-even and payback.
-- **Control tower:** a simulated 90-day pilot, 2 pilot hubs against 2 matched controls. Drag or play the pilot day from 1 to 90 and watch the KPIs, the weekly RTO chart, the kill switches and the event log move with it.
+- **Control tower:** a simulated 90-day pilot, 2 pilot hubs against 2 matched controls. Drag or play the pilot day from 1 to 90 and watch the KPIs, the weekly RTO chart, the kill switches and the verified-attempt rules move with it. The event log scrolls, and every event carries its own parcel ID. "Check an order" looks up any parcel or order ID, or a clicked log row, with suggestions as you type, and shows that attempt's evidence: distance from the pin, wait time, calls and the WhatsApp ping, with the verdict.
 
 The phones are labelled by role: customer, delivery partner, backup receiver, Valmo Point shop and hub. Nearly every control on them responds: wishlist, sizes, add to cart, price details, change address, help, masked calls, run-sheet stops, the Valmo Point code pad and more.
 
@@ -30,3 +30,6 @@ Demo codes: backup receiver **7316**, Valmo Point **4821**.
 
 ## Tech
 One self-contained `index.html`, HTML, CSS and JavaScript with images embedded. No backend, no tracking. Concept prototype with sample data only; no real payments, messages or calls. Not a Meesho product.
+
+## Rights
+© 2026 Team Shooters: Chitransh Gangwar, Atharva Katiyar and Abhay Kumar, IIT Kanpur. Built for Meesho DICE Challenge 3.0. All rights reserved. The code, design, flows and numbers may not be copied, reused or redistributed without written permission.
